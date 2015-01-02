@@ -6,6 +6,7 @@
 
 + [Language Implementation Patterns](https://github.com/ultimate-lambda/book-reviews/wiki/Language-Implementation-Patterns)
 + [The Structure And Interpretation of Computer Programs](https://github.com/ultimate-lambda/book-reviews/wiki/The-Structure-And-Interpretation-of-Computer-Programs)
++ [The Little Schemer](https://github.com/ultimate-lambda/book-reviews/wiki/The-Little-Schemer)
 
 ## Paper Reviews
 
