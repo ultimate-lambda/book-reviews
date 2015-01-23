@@ -4,9 +4,11 @@
 
 ## Book Reviews
 
-+ [Language Implementation Patterns](https://github.com/ultimate-lambda/book-reviews/wiki/Language-Implementation-Patterns)
 + [The Structure And Interpretation of Computer Programs](https://github.com/ultimate-lambda/book-reviews/wiki/The-Structure-And-Interpretation-of-Computer-Programs)
++ [编程语言实现模式](https://github.com/ultimate-lambda/book-reviews/wiki/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80%E5%AE%9E%E7%8E%B0%E6%A8%A1%E5%BC%8F)
 + [The Little Schemer](https://github.com/ultimate-lambda/book-reviews/wiki/The-Little-Schemer)
++ [算法](https://github.com/ultimate-lambda/book-reviews/wiki/%E7%AE%97%E6%B3%95)
++ [C与指针](https://github.com/ultimate-lambda/book-reviews/wiki/C%E4%B8%8E%E6%8C%87%E9%92%88)
 
 ## Paper Reviews
 
