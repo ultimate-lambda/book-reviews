@@ -11,6 +11,7 @@
 + [C与指针](https://github.com/ultimate-lambda/book-reviews/wiki/C%E4%B8%8E%E6%8C%87%E9%92%88)
 + [Real World Haskell](https://github.com/ultimate-lambda/book-reviews/wiki/Real-World-Haskell)
 + [Learn You a Haskell for Great Good](https://github.com/ultimate-lambda/book-reviews/wiki/Learn-You-a-Haskell-for-Great-Good)
++ [Essentials of Programming Languages](https://github.com/ultimate-lambda/book-reviews/wiki/Essentials-of-Programming-Languages)
 
 ## Paper Reviews
 
