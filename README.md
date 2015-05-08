@@ -13,6 +13,7 @@
 + [Learn You a Haskell for Great Good](https://github.com/ultimate-lambda/book-reviews/wiki/Learn-You-a-Haskell-for-Great-Good)
 + [Essentials of Programming Languages](https://github.com/ultimate-lambda/book-reviews/wiki/Essentials-of-Programming-Languages)
 + [Programming Languages: Application and Interpretation](https://github.com/ultimate-lambda/book-reviews/wiki/Programming-Languages:-Application-and-Interpretation)
++ [Concepts in Programming Languages](https://github.com/ultimate-lambda/book-reviews/wiki/Concepts-in-Programming-Languages)
 ## Paper Reviews
 
 + [Homoiconicity, Lazyness and First Class Macros](https://github.com/ultimate-lambda/book-reviews/wiki/Homoiconicity,-Lazyness-and-First-Class-Macros)
