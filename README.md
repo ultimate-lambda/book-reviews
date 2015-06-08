@@ -15,6 +15,7 @@
 + [Programming Languages: Application and Interpretation](https://github.com/ultimate-lambda/book-reviews/wiki/Programming-Languages:-Application-and-Interpretation)
 + [Concepts in Programming Languages](https://github.com/ultimate-lambda/book-reviews/wiki/Concepts-in-Programming-Languages)
 + [Realm of Racket](https://github.com/ultimate-lambda/book-reviews/wiki/Realm-of-Racket)
++ [Java编程思想](https://github.com/ultimate-lambda/book-reviews/wiki/Java%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3)
 
 ## Paper Reviews
 
