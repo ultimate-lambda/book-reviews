@@ -17,6 +17,7 @@
 + [Realm of Racket](https://github.com/ultimate-lambda/book-reviews/wiki/Realm-of-Racket)
 + [Java编程思想](https://github.com/ultimate-lambda/book-reviews/wiki/Java%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3)
 + [Seven Concurrency Models in Seven Weeks](https://github.com/ultimate-lambda/book-reviews/wiki/Seven-Concurrency-Models-in-Seven-Weeks)
++ [Lecture Notes on the Lambda Calculus](https://github.com/ultimate-lambda/book-reviews/wiki/Lecture-Notes-on-the-Lambda-Calculus)
 
 ## Paper Reviews
 
