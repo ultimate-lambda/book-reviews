@@ -19,6 +19,7 @@
 + [Seven Concurrency Models in Seven Weeks](https://github.com/ultimate-lambda/book-reviews/wiki/Seven-Concurrency-Models-in-Seven-Weeks)
 + [Lecture Notes on the Lambda Calculus](https://github.com/ultimate-lambda/book-reviews/wiki/Lecture-Notes-on-the-Lambda-Calculus)
 + [Haskell: The Craft of Functional Programming](https://github.com/ultimate-lambda/book-reviews/wiki/Haskell:-The-Craft-of-Functional-Programming)
++ [Rust Essentials](https://github.com/ultimate-lambda/book-reviews/wiki/Rust-Essentials)
 
 ## Paper Reviews
 
