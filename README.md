@@ -20,7 +20,7 @@
 + [Lecture Notes on the Lambda Calculus](https://github.com/ultimate-lambda/book-reviews/wiki/Lecture-Notes-on-the-Lambda-Calculus)
 + [Haskell: The Craft of Functional Programming](https://github.com/ultimate-lambda/book-reviews/wiki/Haskell:-The-Craft-of-Functional-Programming)
 + [Rust Essentials](https://github.com/ultimate-lambda/book-reviews/wiki/Rust-Essentials)
-+ [Rust Essentials](https://github.com/ultimate-lambda/book-reviews/wiki/Type-Systems)
++ [Type Systems](https://github.com/ultimate-lambda/book-reviews/wiki/Type-Systems)
 
 ## Paper Reviews
 
