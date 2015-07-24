@@ -21,6 +21,7 @@
 + [Haskell: The Craft of Functional Programming](https://github.com/ultimate-lambda/book-reviews/wiki/Haskell:-The-Craft-of-Functional-Programming)
 + [Rust Essentials](https://github.com/ultimate-lambda/book-reviews/wiki/Rust-Essentials)
 + [Type Systems](https://github.com/ultimate-lambda/book-reviews/wiki/Type-Systems)
++ [An Introduction to Scheme and its Implementation](https://github.com/ultimate-lambda/book-reviews/wiki/An-Introduction-to-Scheme-and-its-Implementation)
 
 ## Paper Reviews
 
