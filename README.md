@@ -20,10 +20,10 @@
 + [Lecture Notes on the Lambda Calculus](https://github.com/ultimate-lambda/book-reviews/wiki/Lecture-Notes-on-the-Lambda-Calculus)
 + [Haskell: The Craft of Functional Programming](https://github.com/ultimate-lambda/book-reviews/wiki/Haskell:-The-Craft-of-Functional-Programming)
 + [Rust Essentials](https://github.com/ultimate-lambda/book-reviews/wiki/Rust-Essentials)
-+ [Type Systems](https://github.com/ultimate-lambda/book-reviews/wiki/Type-Systems)
 + [An Introduction to Scheme and its Implementation](https://github.com/ultimate-lambda/book-reviews/wiki/An-Introduction-to-Scheme-and-its-Implementation)
 + [面向对象设计实践指南：Ruby语言描述（Practical Object Oriented Design In Ruby An Agile Primer）](https://github.com/ultimate-lambda/book-reviews/wiki/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E8%AE%BE%E8%AE%A1%E5%AE%9E%E8%B7%B5%E6%8C%87%E5%8D%97%EF%BC%9ARuby%E8%AF%AD%E8%A8%80%E6%8F%8F%E8%BF%B0%EF%BC%88Practical-Object-Oriented-Design-In-Ruby---An-Agile-Primer%EF%BC%89)
 
 ## Paper Reviews
 
 + [Homoiconicity, Lazyness and First Class Macros](https://github.com/ultimate-lambda/book-reviews/wiki/Homoiconicity,-Lazyness-and-First-Class-Macros)
++ [Type Systems](https://github.com/ultimate-lambda/book-reviews/wiki/Type-Systems)
