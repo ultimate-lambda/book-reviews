@@ -23,6 +23,7 @@
 + [An Introduction to Scheme and its Implementation](https://github.com/ultimate-lambda/book-reviews/wiki/An-Introduction-to-Scheme-and-its-Implementation)
 + [面向对象设计实践指南：Ruby语言描述（Practical Object Oriented Design In Ruby An Agile Primer）](https://github.com/ultimate-lambda/book-reviews/wiki/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E8%AE%BE%E8%AE%A1%E5%AE%9E%E8%B7%B5%E6%8C%87%E5%8D%97%EF%BC%9ARuby%E8%AF%AD%E8%A8%80%E6%8F%8F%E8%BF%B0%EF%BC%88Practical-Object-Oriented-Design-In-Ruby---An-Agile-Primer%EF%BC%89)
 + [集体智慧编程](https://github.com/ultimate-lambda/book-reviews/wiki/%E9%9B%86%E4%BD%93%E6%99%BA%E6%85%A7%E7%BC%96%E7%A8%8B)
++ [统计学习方法](https://github.com/ultimate-lambda/book-reviews/wiki/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95)
 
 ## Paper Reviews
 
