@@ -4,7 +4,7 @@
 
 ## Book Reviews
 
-+ [The Structure And Interpretation of Computer Programs](https://github.com/ultimate-lambda/book-reviews/wiki/The-Structure-And-Interpretation-of-Computer-Programs)
++ [计算机程序的构造与解释](https://github.com/ultimate-lambda/book-reviews/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A8%8B%E5%BA%8F%E7%9A%84%E6%9E%84%E9%80%A0%E5%92%8C%E8%A7%A3%E9%87%8A)
 + [编程语言实现模式](https://github.com/ultimate-lambda/book-reviews/wiki/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80%E5%AE%9E%E7%8E%B0%E6%A8%A1%E5%BC%8F)
 + [The Little Schemer](https://github.com/ultimate-lambda/book-reviews/wiki/The-Little-Schemer)
 + [算法](https://github.com/ultimate-lambda/book-reviews/wiki/%E7%AE%97%E6%B3%95)
