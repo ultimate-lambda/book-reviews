@@ -25,6 +25,7 @@
 + [集体智慧编程](https://github.com/ultimate-lambda/book-reviews/wiki/%E9%9B%86%E4%BD%93%E6%99%BA%E6%85%A7%E7%BC%96%E7%A8%8B)
 + [统计学习方法](https://github.com/ultimate-lambda/book-reviews/wiki/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95)
 + [λ-演算的语法和语义（The Lambda Calculus: Its Syntax and Semantics）](https://github.com/ultimate-lambda/book-reviews/wiki/%CE%BB-%E6%BC%94%E7%AE%97%E7%9A%84%E8%AF%AD%E6%B3%95%E5%92%8C%E8%AF%AD%E4%B9%89%EF%BC%88The-Lambda-Calculus:-Its-Syntax-and-Semantics%EF%BC%89)
++ [The Little Prover](https://github.com/ultimate-lambda/book-reviews/wiki/The-Little-Prover)
 
 ## Paper Reviews
 
