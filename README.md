@@ -26,6 +26,7 @@
 + [统计学习方法](https://github.com/ultimate-lambda/book-reviews/wiki/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95)
 + [λ-演算的语法和语义（The Lambda Calculus: Its Syntax and Semantics）](https://github.com/ultimate-lambda/book-reviews/wiki/%CE%BB-%E6%BC%94%E7%AE%97%E7%9A%84%E8%AF%AD%E6%B3%95%E5%92%8C%E8%AF%AD%E4%B9%89%EF%BC%88The-Lambda-Calculus:-Its-Syntax-and-Semantics%EF%BC%89)
 + [The Little Prover](https://github.com/ultimate-lambda/book-reviews/wiki/The-Little-Prover)
++ [数理逻辑](https://github.com/ultimate-lambda/book-reviews/wiki/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91)
 
 ## Paper Reviews
 
