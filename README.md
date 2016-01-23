@@ -30,6 +30,7 @@
 + [Logic and Structure](https://github.com/ultimate-lambda/book-reviews/wiki/Logic-and-Structure)
 + [近世代数引论](https://github.com/ultimate-lambda/book-reviews/wiki/%E8%BF%91%E4%B8%96%E4%BB%A3%E6%95%B0%E5%BC%95%E8%AE%BA)
 + [Categories for the Working Mathematician 2nd](https://github.com/ultimate-lambda/book-reviews/wiki/Categories-for-the-Working-Mathematician-2nd)
++ [Purely Functional Data Structures](https://github.com/ultimate-lambda/book-reviews/wiki/Purely-Functional-Data-Structures)
 
 ## Paper Reviews
 
