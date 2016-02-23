@@ -31,6 +31,7 @@
 + [近世代数引论](https://github.com/ultimate-lambda/book-reviews/wiki/%E8%BF%91%E4%B8%96%E4%BB%A3%E6%95%B0%E5%BC%95%E8%AE%BA)
 + [Categories for the Working Mathematician 2nd](https://github.com/ultimate-lambda/book-reviews/wiki/Categories-for-the-Working-Mathematician-2nd)
 + [Purely Functional Data Structures](https://github.com/ultimate-lambda/book-reviews/wiki/Purely-Functional-Data-Structures)
++ [计算机科学中的现代逻辑学](https://github.com/ultimate-lambda/book-reviews/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%AD%E7%9A%84%E7%8E%B0%E4%BB%A3%E9%80%BB%E8%BE%91%E5%AD%A6)
 
 ## Paper Reviews
 
