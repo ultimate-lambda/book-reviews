@@ -34,6 +34,7 @@
 + [计算机科学中的现代逻辑学](https://github.com/ultimate-lambda/book-reviews/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%AD%E7%9A%84%E7%8E%B0%E4%BB%A3%E9%80%BB%E8%BE%91%E5%AD%A6)
 + [Beginning Haskell](https://github.com/ultimate-lambda/book-reviews/wiki/Beginning-Haskell)
 + [类型和程序设计语言](https://github.com/ultimate-lambda/book-reviews/wiki/%E7%B1%BB%E5%9E%8B%E5%92%8C%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E8%AF%AD%E8%A8%80)
++ [离散数学教程](https://github.com/ultimate-lambda/book-reviews/wiki/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6%E6%95%99%E7%A8%8B)
 
 ## Paper Reviews
 
